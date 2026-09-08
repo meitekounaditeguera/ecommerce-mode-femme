@@ -19,5 +19,5 @@ ecommerce/
 | **Catalogue** | **Fiche produit** |
 | ![Panier](captures/03-panier.png) | ![Connexion](captures/04-connexion.png) |
 | **Panier** | **Connexion** |
-| ![Documentation API interactive](captures/05-api-swagger.png) | |
-| **Documentation API interactive** | |
+| ![Documentation API interactive](captures/05-api-swagger.png) | ![Inscription](captures/06-inscription.png) |
+| **Documentation API interactive** | **Inscription** |
